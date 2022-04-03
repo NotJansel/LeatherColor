@@ -1,0 +1,12 @@
+name: LeatherColor
+version: '${project.version}'
+main: de.notjansel.leathercolor.LeatherColor
+api-version: 1.13
+prefix: ChCo
+authors: [ NotJansel ]
+description: Color your Chestplate in a Color you desire
+website: https://plugins.notjansel.de
+
+commands:
+  color:
+    description: Color your Chestplate in a Color you desire
